@@ -189,12 +189,6 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Microverse**
-
-- GitHub: [@githubhandle](https://github.com/microverseinc)
-- Twitter: [@twitterhandle](https://twitter.com/microverseinc?t=tjshAClwL2DU0mtpl_rAkA&s=09)
-<!-- - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle) -->
-
 👤 **Daniel**
 
 - GitHub: [@githubhandle](https://github.com/danutibe07)
